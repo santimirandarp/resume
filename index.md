@@ -7,6 +7,7 @@ Work Experience and Contributions
 2021-2022
 :   Github Open Source Contributor 
 :    Contributor to chemistry projects written in Typescript, Javascript or Python. I've written code for [parsing NMR data](https://github.com/santimirandarp/varian-converter) (Varian/Agilent) as well as [Raman data](https://github.com/santimirandarp/wdf-parser). In these cases, the code converts the original source files (binary and text) to a friendly JSON format that is general, easy to transfer and understood by any web browser.
+:   <a href="https://github.com/santimirandarp" class="img-link"><img src="./github.svg" height=24 alt="github"/> Github</a>
 
 2020-2022
 :   Developer Hubs 

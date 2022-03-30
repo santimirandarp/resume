@@ -73,4 +73,16 @@ a:hover, a:active {
 hr {
     color: #A6A6A6;
 }
+.img-link{
+display:inline-block; 
+padding:0.1rem;
+}
 
+.img-link:hover{
+  text-decoration: none;
+  cursor:pointer;
+  background-color: white;
+  text-decoration:underline;
+  text-shadow:none;
+  color: #397249;
+  }
