@@ -16,18 +16,12 @@ body {
     padding: 1rem;
 }
 
-/*
-.title {
-    display: none;
-}
-*/
-
 /* Title of the resume */
 h1 {
     font-size: 3rem;
     color: #757575;
     text-align:center;
-    margin-bottom:15px;
+    margin: 3.5rem 0 1.5rem 0
 }
 
 /* Titles of categories */
