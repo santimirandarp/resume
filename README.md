@@ -10,8 +10,9 @@ You need installed:
 
 Take my CV and modify to your needs. Pandoc uses markdown extended syntax. This is how to
 convert to html:
-```
-pandoc --standalone -c style.css --from markdown --to html -o index.html index.md
+```bash
+pandoc --standalone -c index.css -f markdown index.md -t html -o index.html -H header.html
+#pandoc --standalone -c style.css --from markdown --to html -o index.html index.md
 ```
 
 And to pdf (I don't like the pandoc convertion from html to pdf using latex).

@@ -1,4 +1,5 @@
 % Santiago Miranda
+
 <p style="padding:1rem; font-size:small; text-align:center">DoB: 22/01/1994 | Inverness, Scotland | Contact (+44) 07871849203 | <santimir@protonmail.com></p>
 
 Work Experience and Contributions
