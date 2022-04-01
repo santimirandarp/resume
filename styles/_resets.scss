@@ -1,0 +1,18 @@
+
+/* standard resets  */
+* {box-sizing:border-box; margin:0; padding:0}
+
+a, a:hover, a:active {text-decoration:none}
+
+a {
+    color: #397249;
+}
+a:hover, a:active {
+    cursor:pointer;
+    background-color: #397249;
+    color: #FFFFFF;
+    text-shadow: 1px 1px 1px #333;
+}
+
+ul { list-style:none}
+li { padding-bottom:1rem; list-style-type:none}
